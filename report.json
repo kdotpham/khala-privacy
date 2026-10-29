@@ -17,9 +17,7 @@
   ],
   "market_data_as_of": "2026-10-26",
   "research_status": "Targeted primary-source audit on 2026-10-20 covers Nullmask fees, reward accounting and delivery status; Nockchain privacy status, issuance and roadmap; Pearl mining and inference payments; wallet RPC experiments; refund release history; and UR (SN25) launch pricing. Market values retain their stated historical observation dates. This is not a transaction-level audit of every metric.",
-  "sample_data_slide_numbers": [
-    17
-  ],
+  "sample_data_slide_numbers": [],
   "market_data_overrides": {},
   "coverage_universe": [
     "Zcash",
@@ -40,7 +38,7 @@
     "Nym",
     "UR (SN25)"
   ],
-  "slide_count": 21,
+  "slide_count": 20,
   "slides": [
     {
       "slide_number": 1,
@@ -2396,135 +2394,6 @@
     },
     {
       "slide_number": 17,
-      "id": "mau",
-      "title": "UR (SN25) reports 350K monthly users",
-      "url": "https://kdotpham.github.io/khala-privacy-reviewed/#mau",
-      "kind": "content",
-      "data_status": "sample_not_for_publication",
-      "warnings": [
-        "SAMPLE DATA · NOT FOR POSTING. Monthly chart values are placeholders, not observed history. The 350K headline is separately team-reported."
-      ],
-      "paragraphs": [
-        "UR (SN25) reports 350K monthly users",
-        "The monthly series is illustrative and ends at the team-reported figure of 350K monthly users.",
-        "126,717 providers across 103 countries",
-        "Although URnetwork reports an existing user base, its zero launch deposit rate means app usage does not yet require operators to buy UR (SN25).",
-        "The bars show the chart layout, not measured monthly growth.",
-        "SAMPLE DATA · NOT FOR POSTING"
-      ],
-      "text": "UR (SN25) reports 350K monthly users\nThe monthly series is illustrative and ends at the team-reported figure of 350K monthly users.\n126,717 providers across 103 countries\nAlthough URnetwork reports an existing user base, its zero launch deposit rate means app usage does not yet require operators to buy UR (SN25).\nThe bars show the chart layout, not measured monthly growth.\nSAMPLE DATA · NOT FOR POSTING",
-      "charts": [
-        {
-          "description": "Placeholder monthly active users chart. Sample data, not for posting.",
-          "labels": [
-            "120K",
-            "1 APR 2026",
-            "150K",
-            "1 MAY 2026",
-            "185K",
-            "1 JUN 2026",
-            "220K",
-            "1 JUL 2026",
-            "265K",
-            "1 AUG 2026",
-            "UR (SN25) launches on Bittensor UR (SN25)",
-            "300K",
-            "1 SEP 2026",
-            "330K",
-            "1 OCT 2026",
-            "350K",
-            "15 OCT 2026"
-          ],
-          "details": [
-            {
-              "label": "Apr 1",
-              "description": "120K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "May 1",
-              "description": "150K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "Jun 1",
-              "description": "185K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "Jul 1",
-              "description": "220K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "Aug 1",
-              "description": "265K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "Sep 1",
-              "description": "300K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "Oct 1",
-              "description": "330K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            },
-            {
-              "label": "Oct 15",
-              "description": "350K monthly active users",
-              "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-            }
-          ]
-        }
-      ],
-      "tables": [],
-      "hover_details": [
-        {
-          "label": "Apr 1",
-          "description": "120K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "May 1",
-          "description": "150K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "Jun 1",
-          "description": "185K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "Jul 1",
-          "description": "220K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "Aug 1",
-          "description": "265K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "Sep 1",
-          "description": "300K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "Oct 1",
-          "description": "330K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        },
-        {
-          "label": "Oct 15",
-          "description": "350K monthly active users",
-          "source": "SAMPLE DATA: NOT FOR POSTING. Placeholder monthly series."
-        }
-      ]
-    },
-    {
-      "slide_number": 18,
       "id": "operators",
       "title": "Priced deposits could create demand for UR (SN25)",
       "url": "https://kdotpham.github.io/khala-privacy-reviewed/#operators",
@@ -2672,7 +2541,7 @@
       ]
     },
     {
-      "slide_number": 19,
+      "slide_number": 18,
       "id": "pipeline",
       "title": "UR (SN25)’s operator roadmap extends from consumer VPNs into enterprise and AI",
       "url": "https://kdotpham.github.io/khala-privacy-reviewed/#pipeline",
@@ -2759,7 +2628,7 @@
       ]
     },
     {
-      "slide_number": 20,
+      "slide_number": 19,
       "id": "bull",
       "title": "The most valuable connectivity networks are the ones with paying customers",
       "url": "https://kdotpham.github.io/khala-privacy-reviewed/#bull",
@@ -2915,7 +2784,7 @@
       ]
     },
     {
-      "slide_number": 21,
+      "slide_number": 20,
       "id": "catalysts",
       "title": "Dated events and operating signals will test the privacy thesis",
       "url": "https://kdotpham.github.io/khala-privacy-reviewed/#catalysts",
